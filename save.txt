@@ -1,0 +1,12 @@
+floor=2
+hp=5
+max_hp=35
+attack=11
+defense=3
+base_atk=6
+base_def=1
+xp=13
+level=2
+kills=3
+weapon=Short Sword
+shield=Iron Shield
